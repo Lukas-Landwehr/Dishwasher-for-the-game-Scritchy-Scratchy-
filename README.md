@@ -22,3 +22,4 @@ python Position_grabber.py
 ```
 python Dishwasher.py
 ```
+Default iterations is 1000, you can change it with -n "your number"
