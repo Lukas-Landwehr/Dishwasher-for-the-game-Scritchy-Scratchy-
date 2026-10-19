@@ -15,6 +15,8 @@ The Python libraries for controlling the mouse don't work with wayland, but it w
 
 # How to run
 
+![screenshot](image.png)
+
 
 Use Position_grabber.py to get the position for each button, the program will guide you in the temrinal. All positions will be saved in positions.json, which the Dishwasher.py uses for washing the dirty dishes :)
 ```
